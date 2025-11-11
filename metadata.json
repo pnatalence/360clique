@@ -1,0 +1,5 @@
+{
+  "name": "Clique 360 - Fature com um clique",
+  "description": "An invoicing application that uses a Gemini-powered chatbot to manage invoices, clients, and products through natural language commands.",
+  "requestFramePermissions": []
+}
